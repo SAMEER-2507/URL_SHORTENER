@@ -1,17 +1,17 @@
 # 🔗 URL Shortener
 
-A full-stack URL shortening service built with **React** and **Express**. Shorten long URLs into compact, shareable links — with optional user accounts to manage, track, and customize your shortened URLs.
+A full-stack URL shortening service built with **React** and **Express**. Shorten long URLs into compact, shareable links - with optional user accounts to manage, track, and customize your shortened URLs.
 
 ---
 
 ## ✨ Features
 
-- **Shorten URLs** — Generate short links from any valid URL instantly
-- **Custom Slugs** — Authenticated users can create custom short URL aliases
-- **Click Tracking** — Track how many times each shortened URL has been visited
-- **User Dashboard** — View and manage all your shortened URLs in one place
-- **Authentication** — Secure JWT-based auth with HTTP-only cookies
-- **Guest Access** — Shorten URLs without creating an account
+- **Shorten URLs** - Generate short links from any valid URL instantly
+- **Custom Slugs** - Authenticated users can create custom short URL aliases
+- **Click Tracking** - Track how many times each shortened URL has been visited
+- **User Dashboard** - View and manage all your shortened URLs in one place
+- **Authentication** - Secure JWT-based auth with HTTP-only cookies
+- **Guest Access** - Shorten URLs without creating an account
 
 ---
 
@@ -102,7 +102,7 @@ URL_SHORTNER/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/URL_SHORTNER.git
+git clone https://github.com/SAMEER-2507/URL_SHORTNER.git
 cd URL_SHORTNER
 ```
 
